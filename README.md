@@ -1,4 +1,4 @@
-# Avatar_Glow_Effect_Package_Flutter
+# Avatar_Glow_Effect_Google_Fonts_Package_Flutter
 
 This is Simple Avatar Glow Effect & Google Fonts Packages Testing Application built on Flutter 3.7
 
